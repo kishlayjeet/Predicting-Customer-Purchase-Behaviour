@@ -1,6 +1,6 @@
-# Predicting Customer Purchase Behaviour
+# Predicting Customer Purchase Behavior
 
-A retail company "ABC Private Limited" wants to understand the customer purchase behaviour and predict the purchase amount of customers against various products. This will help them to create personalized offers for customers against different products.
+A retail company "ABC Private Limited" wants to understand the customer purchase behavior and predict the purchase amount of customers against various products. This will help them to create personalized offers for customers against different products.
 
 ## Data Description
 
@@ -28,4 +28,4 @@ The data set contains information about customer demographics (`age`, `gender`, 
 
 ## Conclusion
 
-The code in this repository demonstrates the process of predicting customer purchase behaviour. The steps involved in the process have been explained and the necessary code has been provided for reference.
+The code in this repository demonstrates the process of predicting customer purchase behavior. The steps involved in the process have been explained and the necessary code has been provided for reference.
