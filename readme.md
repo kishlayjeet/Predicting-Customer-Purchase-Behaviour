@@ -4,7 +4,7 @@ A retail company "ABC Private Limited" wants to understand the customer purchase
 
 ## Data Description
 
-The data set contains information about customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and total purchase amount from last month.
+The data set contains information about customer demographics (`age`, `gender`, `marital status`, `city_type`, `stay_in_current_city`), product details (`product_id` and `product category`) and total purchase amount from last month.
 
 ## Steps involved
 
